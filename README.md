@@ -72,7 +72,8 @@ I would also include a replay option, so the player can listen to the notes agai
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](your-link-here)
+[My 5-minute Interview Recording](https://www.loom.com/share/b3b2b023c8f043a28624f8f645c3f30e)
+
 
 
 ## License
