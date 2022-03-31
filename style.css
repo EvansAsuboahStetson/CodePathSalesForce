@@ -1,0 +1,126 @@
+ body {
+     font-family: helvetica, arial, sans-serif;
+     margin: 2em;
+     background-color: slategrey;
+    color: white; 
+   
+ }
+h1{
+
+font-family: verdana, arial, sans-serif; 
+  
+}
+
+button{
+padding: 10px;
+border-radius: 10px;
+
+}
+#clock{
+padding: 10px;
+border-radius: 10px;
+border:3px solid;
+width: 80px;
+text-align:center;
+background-color: white;
+color: black;
+}
+#gameButtonArea > button {
+  width:200px;
+  height:200px;
+  margin:2pxff
+}
+.hidden {
+  display: none;
+}
+#button1 {
+    background: lightgreen;
+  background-image:none;
+}
+#button1:active, #button1.lit{
+    background:green;
+}
+
+
+
+#button2 {
+    background: lightgreen;
+  background-image:none;
+}
+#button2:active, #button1.lit{
+    background:green;
+}
+
+
+
+
+
+#button3{
+    background: lightgreen;
+  background-image:none;
+}
+#button3:active, #button1.lit{
+    background:green;
+}
+
+
+
+
+#button4{
+    background: lightgreen;
+  background-image:none;
+}
+#button4:active, #button1.lit{
+    background:green;
+}
+
+#button5{
+    background: lightgreen;
+  b
+  ackground-image:none;
+}
+#button5:active, #button1.lit{
+    background:green;
+  
+}
+
+#button6{
+    background: lightgreen;
+  background-image:none;
+}
+#button6:active, #button1.lit{
+    background:green;
+}
+
+#button7{
+    background: lightgreen;
+  background-image:none;
+}
+#button7:active, #button1.lit{
+    background:green;
+}
+
+#button8{
+    background: lightgreen;
+  background-image:none;
+}
+#button8:active, #button1.lit{
+    background:green;
+  background-image:none;
+}
+img
+{
+  width:150px;
+  height:150px;
+  margin:2pxff;
+  opacity: 0.7;
+border-radius: 10px;
+  display:none;
+}
+
+
+
+
+
+
+
