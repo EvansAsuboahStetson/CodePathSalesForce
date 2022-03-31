@@ -39,7 +39,11 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-https://github.com/EvansAsuboahStetson/CodePathSalesForce/blob/main/CodePath.gif
+![]()
+![](gif2-link-here)
+![](gif3-link-here)
+![](gif4-link-here)
+
 
 
 ## Reflection Questions
