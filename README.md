@@ -6,7 +6,7 @@ Submitted by:Evans Asuboah
 
 Time spent:10 hours spent in total
 
-Link to project: (insert your link here, should start with https://glitch.com...)
+Link to project: (https://glitch.com/edit/#!/quark-mire-blade)
 
 ## Required Functionality
 
